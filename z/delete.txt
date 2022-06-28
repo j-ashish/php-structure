@@ -1,0 +1,1 @@
+This folder only contains images that are used to create the readme.md, delete before using the file structure.
