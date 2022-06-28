@@ -1,0 +1,1 @@
+This is the config folder, only files that ends with (.json) extension or (.xml) should be here.
