@@ -1,0 +1,1 @@
+This is the template folder only files that ended with (.html) should be here.
