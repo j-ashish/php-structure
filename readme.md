@@ -80,7 +80,7 @@ ___
 ### **Follow This Link For Stable Version:** ***<a href="http://sitetesting.rf.gd">Tested</a>***
 ___
 ```
-  
+  gh repo clone j-ashish/php-structure
 ```
 <div style="border-top: 1px solid green"></div>
 
